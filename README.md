@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/yourusername/your-repo-name/blob/main/images/example.png)
+![Alt Text]([https://github.com/yourusername/your-repo-name/blob/main/images/example.png](https://github.com/Thegd17/Stock-data-analysis-and-excel-automation-Minor-Project-/blob/main/Calculations.jpg))
 
 # Stock Analysis, Portfolio Optimization, and Report Generation
 
