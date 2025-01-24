@@ -1,4 +1,5 @@
-![Uploading Calculations.jpg…]()
+![Alt Text](https://github.com/yourusername/your-repo-name/blob/main/images/example.png)
+
 # Stock Analysis, Portfolio Optimization, and Report Generation
 
 ## Project Overview
